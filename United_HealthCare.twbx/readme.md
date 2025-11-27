@@ -39,5 +39,16 @@ A comprehensive healthcare analytics tool designed to provide deep insights into
 - Predictive Spend Modeling
 
 ### Technology Stack
-- Data Visualization: Tableau 
+- Data Visualization: Tableau
+- Data Cleaning : Excel
+
+## Dashboard Preview 
+
+<img width="680" height="530" alt="UHC1 (1)" src="https://github.com/user-attachments/assets/ec3dde26-6068-4003-86c1-453631da4f99" />
+
+**_**
+
+<img width="701" height="520" alt="image (3)" src="https://github.com/user-attachments/assets/a75858bd-8f14-44bb-9f3a-4a6b11f3984e" />
+
+
 
