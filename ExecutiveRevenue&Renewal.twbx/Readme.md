@@ -1,4 +1,4 @@
-Executive Revenue & Renewal Dashboard# Project Overview
+## **Executive Revenue & Renewal Dashboard**
 
 ## Purpose
 A comprehensive business intelligence tool designed to provide deep insights into organizational revenue performance, customer retention, and churn analysis.
@@ -61,3 +61,16 @@ A comprehensive business intelligence tool designed to provide deep insights int
 - Churn Rate
 - Renewal Rate
 - Average Revenue per Customer
+
+**Dashboard Preview**
+
+<img width="908" height="700" alt="e1" src="https://github.com/user-attachments/assets/5abe1861-5f42-4f84-a648-f5c81978bb45" />
+
+**_**
+
+<img width="893" height="693" alt="e2" src="https://github.com/user-attachments/assets/50709f9c-4660-408e-86fd-468b72fa2a6b" />
+
+**_**
+
+<img width="908" height="699" alt="e3" src="https://github.com/user-attachments/assets/5c7ef216-dd58-4de9-834b-58eedd40c1bc" />
+
