@@ -57,7 +57,7 @@ A comprehensive business intelligence tool designed to provide deep insights int
 
 ### Key Metrics Calculated
 - Monthly Recurring Revenue (MRR)
-- Customer Lifetime Value (CLV)
+- Customer Lifetime Value 
 - Churn Rate
 - Renewal Rate
 - Average Revenue per Customer
