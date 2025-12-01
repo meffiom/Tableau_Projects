@@ -64,14 +64,17 @@ A comprehensive business intelligence tool designed to provide deep insights int
 
 **Dashboard Preview**
 
-<img width="908" height="700" alt="e1" src="https://github.com/user-attachments/assets/5abe1861-5f42-4f84-a648-f5c81978bb45" />
+<img width="908" height="700" alt="e1" src="https://github.com/user-attachments/assets/c6472edf-7093-4a4c-8f4f-62725fa8ca35" />
+
 
 **_**
 
-<img width="893" height="693" alt="e2" src="https://github.com/user-attachments/assets/50709f9c-4660-408e-86fd-468b72fa2a6b" />
+<img width="893" height="693" alt="e2" src="https://github.com/user-attachments/assets/e4bc39dc-2af3-40ed-ae9e-1ae2728bc975" />
+
 
 **_**
 
-<img width="908" height="699" alt="e3" src="https://github.com/user-attachments/assets/5c7ef216-dd58-4de9-834b-58eedd40c1bc" />
+<img width="908" height="699" alt="e3" src="https://github.com/user-attachments/assets/4d56ec13-a215-4528-bb72-b71f1f882733" />
+
 
 
